@@ -6,7 +6,7 @@ This repository documents my transition from **Physics** to **Quantitative Finan
 
 ### Fundamentals & Tooling (Current)
 * **Goal:** Mastering NumPy, Pandas, and Probability.
-* **Project:** [Monte Carlo Option Pricer](./Semana_01/Miniproyecto_1_MonteCarlo.ipynb)
+* **Project:** [Monte Carlo Option Pricer](Smallproject_MonteCarlo_Pricer.ipynb)
     * Optimized with **Numba (@njit)**.
     * Manual implementation of **Box-Muller Transform**.
     * Backtesting of a Moving Average strategy (handling Look-ahead bias).
