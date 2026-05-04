@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-#include <cmath> // para erf
+#include <cmath> // for erf
 #define PI std::acos(-1.0)
 
 double normal(double x) { // We define some functions that will be of use later
