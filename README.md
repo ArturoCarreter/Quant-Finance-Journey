@@ -19,7 +19,7 @@ This repository documents my transition from **Theoretical Physics** to **Quanti
 * **Memory & Performance:** Mastery of references, pointers, and **pointer invalidation** (safe handling of `std::vector` reallocations).
 * **STL & Data Structures:** Implementation of an efficient **Portfolio Valuation Engine** using `std::map` and C++17 **Structured Bindings**.
 * **Derivative Pricing (OOP):** * *In Progress:* Analytical **Black-Scholes Engine** (Option class, Greeks/Delta calculation).
-    * *Upcoming:* **Binomial Tree models** (Cox-Ross-Rubinstein) and Futures/Forwards pricing (Cost of Carry).
+* **Binomial Tree models** (Cox-Ross-Rubinstein) and Futures/Forwards pricing (Cost of Carry).
 * **Tooling:** Compilation optimization using `g++ -O3 -march=native` and memory safety audits with **AddressSanitizers**.
 
 ### 🧪 Part 3: Advanced Stats & Portfolio Polishing - [UPCOMING]
