@@ -41,5 +41,3 @@ The project is designed as a **clean, modular, reproducible quant toolkit**, sui
 
 ---
 
-## 📁 Repository Structure
-
