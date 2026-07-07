@@ -15,7 +15,7 @@ This repository documents my transition from **Theoretical Physics** to **Quanti
 * **Risk & Strategies:** Backtesting of Moving Average strategies, handling look-ahead bias, and implementation of the **Kelly Criterion**.
 * **Volatility Analysis:** Historical volatility estimation and real-world data cleaning.
 
-### ⚙️ Part 2: High-Performance C++ for Quants - [IN PROGRESS]
+### ⚙️ Part 2: High-Performance C++ for Quants - [COMPLETED]
 * **Memory & Performance:** Mastery of references, pointers, and **pointer invalidation** (safe handling of `std::vector` reallocations).
 * **STL & Data Structures:** Implementation of an efficient **Portfolio Valuation Engine** using `std::map` and C++17 **Structured Bindings**.
 * **Derivative Pricing (OOP):** * *In Progress:* Analytical **Black-Scholes Engine** (Option class, Greeks/Delta calculation).
