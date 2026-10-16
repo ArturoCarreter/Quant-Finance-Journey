@@ -22,10 +22,6 @@ This repository documents my transition from **Theoretical Physics** to **Quanti
 * **Binomial Tree models** (Cox-Ross-Rubinstein) and Futures/Forwards pricing (Cost of Carry).
 * **Tooling:** Compilation optimization using `g++ -O3 -march=native` and memory safety audits with **AddressSanitizers**.
 
-### 🧪 Part 3: Advanced Stats & Portfolio Polishing - [UPCOMING]
-* **Applied Statistics:** OLS Regression and R² analysis for factor models.
-* **Production Readiness:** Unit testing for financial engines and CLI interface for the Black-Scholes pricer.
-* **Interview Prep:** Stochastic calculus, probability puzzles (Bayes, combinatorics), and LeetCode-style C++ optimizations.
 
 ---
 
